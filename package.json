@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-flatUI-startup",
+  "version": "1.0.0",
+  "description": "boostrap technology & flat ui",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  }
+}
